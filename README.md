@@ -11,22 +11,19 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+This package is usefull for projects having boiler plate code.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+This can help you prevent from adding all the boiler plate code.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+This package is easy to use and you can just call basic functions and use them.
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+For example to convert degree into radian.
 
 ```dart
 const like = 'sample';
@@ -34,6 +31,4 @@ const like = 'sample';
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+For more information you can contact me at naseemkhurram635@gmail.com
