@@ -1,7 +1,7 @@
 name: boiler_plate_code
 description: A new Flutter package project including all boiler plate code.
 version: 0.0.1
-homepage:
+homepage: https://github.com/mKhurramNaseem/boiler_package.git
 
 environment:
   sdk: '>=3.1.1 <4.0.0'
